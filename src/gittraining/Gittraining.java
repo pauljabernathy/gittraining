@@ -16,5 +16,6 @@ public class Gittraining {
     public static void main(String[] args) {
         System.out.println("for practicing with git and github, so I make mistakes here and not on actual code repositories that I don't want to mess up");
         System.out.println("master branch");
+        //another change
     }
 }
