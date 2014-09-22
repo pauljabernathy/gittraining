@@ -21,4 +21,8 @@ public class Gittraining {
         //the first change in the ib1 branch
         
     }
+    
+    public String getMessage() {
+        return "this was from branch ib1.1";
+    }
 }
