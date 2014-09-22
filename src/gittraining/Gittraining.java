@@ -23,6 +23,6 @@ public class Gittraining {
     }
     
     public String getMessage() {
-        return "this was from branch ib1.1";
+        return "this was from branch ib1, not ib1.1";
     }
 }
