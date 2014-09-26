@@ -18,4 +18,8 @@ public class Gittraining {
         System.out.println("master branch");
         //making some changes on the master branch at 10:13
     }
+    
+    public String getMessage() {
+        return "message from master branch, Thursday night";
+    }
 }
