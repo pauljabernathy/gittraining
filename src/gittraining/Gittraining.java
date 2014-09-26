@@ -16,13 +16,9 @@ public class Gittraining {
     public static void main(String[] args) {
         System.out.println("for practicing with git and github, so I make mistakes here and not on actual code repositories that I don't want to mess up");
         System.out.println("master branch");
-        //another change
-        //yet another change
-        //the first change in the ib1 branch
-        
     }
     
     public String getMessage() {
-        return "this was from branch ib1, not ib1.1";
+        return "this was from branch ib1, not master";
     }
 }
