@@ -25,4 +25,6 @@ public class Gittraining {
     public String getMessage() {
         return "this was from branch ib1 on Thursday night";
     }
+    
+    //to be committed with git add then commit
 }
