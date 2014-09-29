@@ -27,4 +27,5 @@ public class Gittraining {
     }
     
     //to be committed with git add then commit
+    //to be committed with just get commit filename
 }
