@@ -10,5 +10,5 @@ package gittraining;
  * @author paul
  */
 public class temporary {
-    
+    //some other change
 }
