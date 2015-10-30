@@ -19,5 +19,8 @@ public class MacCreated {
             System.out.println("I don't like Windows.  Or Android.");
             counter++;
         }
+        if(true) {
+            System.out.println("Windows created this line and I say I don't care if you hate me.");
+        }
     }
 }

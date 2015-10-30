@@ -21,5 +21,9 @@ public class WindowsCreated {
         if(false) {
             //this code block was edited on the max
         }
+        if(true) {
+            System.out.println("Mac, stop messing with my files.");
+            //There are ^M characters in git diff at the end of these lines that were just added but not the lines just added to MacCreated.
+        }
     }
 }
