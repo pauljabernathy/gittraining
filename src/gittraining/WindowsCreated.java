@@ -26,5 +26,7 @@ public class WindowsCreated {
             //There are ^M characters in git diff at the end of these lines that were just added but not the lines just added to MacCreated.
         }
         //9:28 am edit
+        //9:34, Windows
+        //has the ^M
     }
 }
