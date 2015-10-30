@@ -31,5 +31,7 @@ public class WindowsCreated {
         //9:43, windows
         //no ^M
         //9:47, mac
+        //9:49, mac; privious edit had ^M at the end of every line in this file in git diff, but not MacCreated.
+        //This edit only has a ^M at the end of these new lines.
     }
 }
