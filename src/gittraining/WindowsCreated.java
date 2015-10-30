@@ -30,5 +30,6 @@ public class WindowsCreated {
         //has the ^M
         //9:43, windows
         //no ^M
+        //9:47, mac
     }
 }
