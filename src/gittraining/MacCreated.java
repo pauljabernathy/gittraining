@@ -35,5 +35,7 @@ public class MacCreated {
         //no ^M
         //12:02pm, mac
         //no ^M
+        //12:05pm, windows
+        //no ^Ms
     }
 }
