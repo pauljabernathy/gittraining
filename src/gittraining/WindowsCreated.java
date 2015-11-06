@@ -35,6 +35,8 @@ public class WindowsCreated {
         //This edit only has a ^M at the end of these new lines.
         //Nov 6 11:53am
         //has ^Ms
+        //11:57, mac
+        //no ^M
         
     }
 }
